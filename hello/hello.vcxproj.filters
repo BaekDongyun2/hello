@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="bitwise_operator.c">
+    <ClCompile Include="operator_priority.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
